@@ -2,7 +2,7 @@
 
 Simple project to export Mikrotik interface & lte metrics to Prometheus.
 
-Docker image: `sokolimedia/mikrotik-prometheus-exporter:latest`
+Docker image: `ghcr.io/slakje-nl/mikrotik-prometheus-exporter:latest`
 
 Project exports http api on `:9000` with metrics at `/metrics` url.
 
